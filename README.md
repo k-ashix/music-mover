@@ -37,6 +37,17 @@ Music Organizer is a command-line utility that automates the tedious task of loc
 - **Platform:** Windows
 - **Libraries Used:** `shutil`, `os`, `pathlib`, `string`,
 
+## How to Run
+
+1. Clone the repository:
+2. Run the script:
+3. Follow the interactive prompts to:
+   - Select a drive to scan
+   - Create a destination folder name
+   - Preview found MP3 files (optional)
+   - Export file list to text (optional)
+   - Move all files to your folder
+
 ## Use Cases
 
 - Consolidating music from multiple external drives

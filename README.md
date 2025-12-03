@@ -2,7 +2,7 @@
 A Python command-line tool that scans Windows drives for MP3 files and consolidates them into a single organized folder. Features drive detection, recursive file search, size calculation, file list export, and real-time progress tracking.
 --------------------------------------------------------------------------
 
-# 🎵 Music Organizer
+# A command line 🎵 Music Organizer
 
 A lightweight Python script designed to help you organize scattered MP3 files across your Windows system. Simply select a drive, create a destination folder, and let the script find and consolidate all your music files automatically.
 
@@ -17,7 +17,7 @@ Music Organizer is a command-line utility that automates the tedious task of loc
 - **Smart Size Calculation** - Displays total file size in human-readable format (B, KB, MB, GB, TB)
 - **Interactive Preview** - Option to view all discovered files before moving them
 - **List Export** - Saves a detailed inventory of found files to a text document
-- **Progress Tracking** - Real-time feedback during file operations
+- **Progress Tracking** - Real-time feedback during file operations (V.2)
 - **User-Friendly Interface** - Clear prompts, emoji indicators, and organized output
 
 ## How It Works
